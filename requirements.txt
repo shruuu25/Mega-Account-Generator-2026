@@ -1,0 +1,6 @@
+mss
+opencv-python
+requests
+keyboard
+pygetwindow
+pynput
